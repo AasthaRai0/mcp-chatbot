@@ -22,9 +22,6 @@ SERVERS = {
     "manim-server": {
         "transport": "stdio",
         "command": "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3",
-        "args": [
-        "/Users/nitish/desktop/manim-mcp-server/src/manim_server.py"
-      ],
         "env": {
         "MANIM_EXECUTABLE": "/Library/Frameworks/Python.framework/Versions/3.11/bin/manim"
       }
