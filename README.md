@@ -11,10 +11,3 @@ Ye project ek AI Chatbot ka hai jo **LangChain**, **OpenAI**, aur **Model Contex
 - **OpenAI API Key**
 
 ---
-
-## 🚀 Setup & Installation Guide
-
-### 1. Project Folder me Jayen
-Terminal (PowerShell) open karein aur apne project directory me navigate karein:
-```bash
-cd C:\Users\Aastha Rai\OneDrive\Desktop\mcp-chatbot
